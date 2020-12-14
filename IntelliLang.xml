@@ -1,0 +1,7 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="ECMAScript 6" injector-id="js">
+      <display-name>script es6</display-name>
+    </injection>
+  </component>
+</application>
