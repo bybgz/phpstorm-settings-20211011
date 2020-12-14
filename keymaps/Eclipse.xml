@@ -1,0 +1,45 @@
+<keymap version="1" name="Eclipse副本" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ProjectViewChangeView" />
+  <action id="RunToCursor" />
+  <action id="SelectIn" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Unwrap" />
+  <action id="WebOpenInAction" />
+  <action id="编辑EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="编辑TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+</keymap>
