@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completed" />
+      <item value="complete" />
       <item value="Synchronizes settings across all IDE installations. To sync, log in with your JetBrains Account (JBA). Settings synced are: UI and editor themes, keymaps, enabled and disabled plugins." />
       <item value="delivery" />
       <item value="Statement" />
@@ -49,13 +51,11 @@
       <item value="New features release. Supporters via Patreon are wanted. - Magic methods validity: new patterns - ::class can be used: new patterns - 'is_countable(...)' can be used: implemented - 'is_iterable(...)' can be used: implemented - Class property initialization flaws: resolved a false-positive (typed properties) - Long inheritance chain: new settings - Type casting can be used: new settings" />
       <item value="Big news folks, new crowd-funding campaign starts 15 January 2020. It'll fund JS Inspections (EA Extended) creation, and we need your support: when campaign starts, please share it in social networks. Preview is available here!" />
       <item value="This message will only appear once for each new version. The GitHub Sponsors link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
-      <item value="Since its first release, the Key Promoter X has now more than 650.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a by-product of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please consider sponsoring me on GitHub. And don't forget to star the GitHub repository and leave a rating on the JetBrains plugin site. Finally, don't be too shy to connect on LinkedIn. I'd like to know in which parts of the world the Key Promoter X is used." />
-      <item value="CUBA Studio is a specialized tool for CUBA Platform – an open source JVM framework for business applications. Studio is a full featured Rapid Application Development tool offering extensive code generation, visual designers, smart prompts and convenient code navigation. Develop enterprise-grade solutions with comfort and high productivity! Documentation:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
