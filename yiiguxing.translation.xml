@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialize Database Settings" />
       <item value="Composer configuration file composer.json found. Project settings are synchronized with it." />
       <item value="Whether to use a persistent connection" />
       <item value="completed" />
@@ -50,12 +51,11 @@
       <item value="Run command... functionality became a part of Run Anything. Now you can invoke it with: Double Ctrl Type framework's alias in Run Anything's window for completion" />
       <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDE" />
       <item value="It's a plugin to encode/decode [hex]string, based on Base64 algorithm." />
-      <item value="New features release. Supporters via Patreon are wanted. - Magic methods validity: new patterns - ::class can be used: new patterns - 'is_countable(...)' can be used: implemented - 'is_iterable(...)' can be used: implemented - Class property initialization flaws: resolved a false-positive (typed properties) - Long inheritance chain: new settings - Type casting can be used: new settings" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
