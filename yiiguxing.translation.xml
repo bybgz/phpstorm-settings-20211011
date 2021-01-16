@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid number of arguments, expected 0" />
       <item value="sum" />
       <item value="Unreachable code" />
       <item value="original" />
@@ -50,11 +51,10 @@
       <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
       <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available: Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply' Switch between Preview and Plain mode: Right click on the editor Press 'Switch to Plain/Preview Mode' Alternatively use the shortcut 'ctrl meta A' while on the editor Only the below graphic rendition codes are supported: Reset code (0) Bold code (1) Italic code (3) Single Underline code (4) All text foreground color codes (30-37) All text background color codes (40-47) Customize ANSI colors: Go to Preferences | Editor | Colors &amp; Fonts | Console Colors Expand 'ANSI Colors' Customize the following foreground/background colors: Black Red Green Yellow Blue Magenta Cyan White Other colors are only supported by the console (not by the editor). Press 'Apply'" />
       <item value="Insert the given attributes and set the ID on the model." />
-      <item value="$dh Item Listing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
+        <entry key="CHINESE" value="262" />
         <entry key="ENGLISH" value="262" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
