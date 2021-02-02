@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="congener" />
       <item value="Tells whether the filename is a regular file" />
       <item value="State" />
       <item value="allow" />
@@ -50,12 +51,11 @@
       <item value="A custom Gruvbox theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell... To install: Go to Settings (Preferences) | Plugins, find the theme plugin and install it. Restart IDE. Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and see the Theme dropdown." />
       <item value="A plugin for JetBrains WebStorm to handle logs" />
       <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window." />
-      <item value="Logtalk support for IntelliJ. This plugin provides syntax highlighting for Logtalk and some basic editing features: Parentheses matching. Multiline terms and comments folding and unfolding. Automatic line and block commenting/uncommenting of selection using IntelliJ standard shortcuts. Tooltips for operators and keywords." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
