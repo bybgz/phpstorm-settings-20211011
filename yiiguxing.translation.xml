@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gmap" />
+      <item value="insertframe" />
+      <item value="fullscreen" />
+      <item value="searchreplace" />
       <item value="countdown" />
       <item value="expire Time" />
       <item value="expire count down" />
@@ -47,15 +51,11 @@
       <item value="expression except" />
       <item value="expression" />
       <item value="JSON Web Token Parser and Analyzer. Visualize JWT contents in a tabular form Verify signature (HS256 and RS256 support) Verify validity of timestamp-based claims Visualize timestamp-based claims in unix / ISO / human relative format Edit claim values: dedicated editor for string, timestamp, boolean, numeric and raw JSON values Set default keypair for RS256 validation in Preferences." />
-      <item value="This plugin provides &quot;Method References&quot; and &quot;Type Provider&quot; extracted from the Symfony Plugin. You can configure the plugin with simple per project files .ide-toolbox.metadata.json to support for eg $f-&gt;('date_time')-&gt;format, new Datetime('caret'). Also it improves some PhpStorm Core functionality." />
-      <item value="Use 'cd ... || exit' or 'cd ... || return' in case cd fails." />
-      <item value="Double quote array expansions to avoid re-splitting elements." />
-      <item value="Remove backticks to avoid executing output." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
