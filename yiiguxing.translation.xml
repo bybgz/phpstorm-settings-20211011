@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="countdown" />
+      <item value="expire Time" />
+      <item value="expire count down" />
+      <item value="count down" />
+      <item value="maturity" />
       <item value="Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check" />
       <item value="updating" />
       <item value="congener" />
@@ -46,16 +51,11 @@
       <item value="Use 'cd ... || exit' or 'cd ... || return' in case cd fails." />
       <item value="Double quote array expansions to avoid re-splitting elements." />
       <item value="Remove backticks to avoid executing output." />
-      <item value="Double quote to prevent globbing and word splitting." />
-      <item value="Consider using pgrep instead of grepping ps output." />
-      <item value="No data sources are configured to run this SQL and provide advanced code assistance. Disable this inspection via problem menu (Alt+Enter)." />
-      <item value="Double quote array expansions to avoid re-splitting elements. See SC2068." />
-      <item value="A custom Gruvbox theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell... To install: Go to Settings (Preferences) | Plugins, find the theme plugin and install it. Restart IDE. Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and see the Theme dropdown." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
