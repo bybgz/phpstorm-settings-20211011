@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remote" />
+      <item value="download remote" />
       <item value="gmap" />
       <item value="insertframe" />
       <item value="fullscreen" />
@@ -49,13 +51,11 @@
       <item value="expression expected" />
       <item value="expression expexted" />
       <item value="expression except" />
-      <item value="expression" />
-      <item value="JSON Web Token Parser and Analyzer. Visualize JWT contents in a tabular form Verify signature (HS256 and RS256 support) Verify validity of timestamp-based claims Visualize timestamp-based claims in unix / ISO / human relative format Edit claim values: dedicated editor for string, timestamp, boolean, numeric and raw JSON values Set default keypair for RS256 validation in Preferences." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
