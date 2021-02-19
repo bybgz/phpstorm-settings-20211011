@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标记" />
       <item value="remote" />
       <item value="download remote" />
       <item value="gmap" />
@@ -50,7 +51,6 @@
       <item value="Exposes a connection to MITM attacks. Use 2 (default) to stay safe." />
       <item value="expression expected" />
       <item value="expression expexted" />
-      <item value="expression except" />
     </histories>
     <option name="languageScores">
       <map>
