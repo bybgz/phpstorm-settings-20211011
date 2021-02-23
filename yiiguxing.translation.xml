@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Directory &quot;%s&quot; was not created" />
       <item value="Emits a notice (only variable references should be returned/passed by reference)" />
       <item value="File upload stopped by extension" />
       <item value="Checks if the cursor is at the end(start) block" />
@@ -50,12 +51,11 @@
       <item value="optimize" />
       <item value="Instantiate the DB adapter" />
       <item value="This function takes an error message as input * (either as a string or an array) and displays * it using the specified template." />
-      <item value="General Error Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
