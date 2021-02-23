@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$file relative path" />
+      <item value="$file absolute path" />
       <item value="Returns canonicalized absolute pathname" />
       <item value="Open popup with filebrowser/uploader buttons for image" />
       <item value="Open image editor dialog" />
@@ -49,13 +51,11 @@
       <item value="// Find the most likely culprit of the error by going through // the backtrace until the source file is no longer in the // database folder." />
       <item value="Initialize Database Settings" />
       <item value="Composer configuration file composer.json found. Project settings are synchronized with it." />
-      <item value="Whether to use a persistent connection" />
-      <item value="completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
