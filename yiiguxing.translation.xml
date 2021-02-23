@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRAIT" />
       <item value="dir" />
       <item value="Directory &quot;%s&quot; was not created" />
       <item value="Emits a notice (only variable references should be returned/passed by reference)" />
@@ -50,12 +51,11 @@
       <item value="'var' used instead of 'let' or 'const'" />
       <item value="All ' are converted to \u0027." />
       <item value="optimize" />
-      <item value="Instantiate the DB adapter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
