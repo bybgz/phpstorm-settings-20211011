@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="palette" />
       <item value="boolean" />
       <item value="TRAIT" />
       <item value="dir" />
@@ -50,12 +51,11 @@
       <item value="Block scoped variables cannot be redeclared" />
       <item value="原图" />
       <item value="'var' used instead of 'let' or 'const'" />
-      <item value="All ' are converted to \u0027." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
