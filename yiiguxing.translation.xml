@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boolean" />
       <item value="TRAIT" />
       <item value="dir" />
       <item value="Directory &quot;%s&quot; was not created" />
@@ -50,12 +51,11 @@
       <item value="原图" />
       <item value="'var' used instead of 'let' or 'const'" />
       <item value="All ' are converted to \u0027." />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
