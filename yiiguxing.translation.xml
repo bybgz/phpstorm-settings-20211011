@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color Picker Default Tab" />
+      <item value="Resizer" />
       <item value="path Variable Name" />
       <item value="with Credentials" />
       <item value="greyscale" />
@@ -49,13 +51,11 @@
       <item value="prefix" />
       <item value="Invalid number of arguments, expected 0" />
       <item value="sum" />
-      <item value="Unreachable code" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
