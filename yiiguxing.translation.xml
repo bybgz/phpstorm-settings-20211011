@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jodit's Destructor. Remove editor, and return source input" />
       <item value="color Picker Default Tab" />
       <item value="Resizer" />
       <item value="path Variable Name" />
@@ -50,12 +51,11 @@
       <item value="Invalid number of arguments, expected 1..2" />
       <item value="prefix" />
       <item value="Invalid number of arguments, expected 0" />
-      <item value="sum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
