@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ready" />
       <item value="destory" />
       <item value="initialize" />
       <item value="Jodit's Destructor. Remove editor, and return source input" />
@@ -50,12 +51,11 @@
       <item value="Tells whether the filename is a regular file" />
       <item value="State" />
       <item value="allow" />
-      <item value="Invalid number of arguments, expected 1..2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
