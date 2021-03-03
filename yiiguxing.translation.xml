@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shipping fee" />
+      <item value="fare" />
       <item value="arithmetic" />
       <item value="algorithm" />
       <item value="Create a new PHPExcel_Worksheet_Drawing" />
@@ -49,13 +51,11 @@
       <item value="searchreplace" />
       <item value="countdown" />
       <item value="expire Time" />
-      <item value="expire count down" />
-      <item value="count down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
