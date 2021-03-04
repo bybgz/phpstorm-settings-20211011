@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRACE" />
       <item value="paths" />
       <item value="pathes" />
       <item value="image pathes" />
@@ -50,12 +51,11 @@
       <item value="download remote" />
       <item value="gmap" />
       <item value="insertframe" />
-      <item value="fullscreen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
