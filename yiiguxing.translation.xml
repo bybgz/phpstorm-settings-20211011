@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paths" />
+      <item value="pathes" />
+      <item value="image pathes" />
       <item value="shipping fee" />
       <item value="fare" />
       <item value="arithmetic" />
@@ -48,14 +51,11 @@
       <item value="gmap" />
       <item value="insertframe" />
       <item value="fullscreen" />
-      <item value="searchreplace" />
-      <item value="countdown" />
-      <item value="expire Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
