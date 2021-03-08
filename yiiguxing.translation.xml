@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
+      <item value="respones" />
       <item value="adjust price" />
       <item value="Netherland" />
       <item value="Netherlands" />
@@ -49,13 +51,11 @@
       <item value="active Buttons In Read Only" />
       <item value="editor" />
       <item value="while" />
-      <item value="标记" />
-      <item value="remote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,6 +66,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
