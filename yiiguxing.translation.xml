@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set" />
+      <item value="price collection" />
       <item value="tip" />
       <item value="prompt" />
       <item value="type point" />
@@ -49,13 +51,11 @@
       <item value="Change editor's size after load all images" />
       <item value="Show dialog with image's options" />
       <item value="indent" />
-      <item value="outdent" />
-      <item value="bold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
