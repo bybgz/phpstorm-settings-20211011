@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tip" />
+      <item value="prompt" />
+      <item value="type point" />
       <item value="Contents of collection 'country_names' are updated, but never queried" />
       <item value="Dh Auto Dribution Task" />
       <item value="response" />
@@ -48,14 +51,11 @@
       <item value="indent" />
       <item value="outdent" />
       <item value="bold" />
-      <item value="italic" />
-      <item value="remove Format" />
-      <item value="active Buttons In Read Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
