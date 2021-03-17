@@ -8,7 +8,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Monaco" />
-    <option name="LINE_SPACING" value="1.4" />
+    <option name="LINE_SPACING" value="1.5" />
     <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
@@ -21,5 +21,8 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
