@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="skus of unapproved samples" />
+      <item value="有skus of unapproved samples" />
+      <item value="unapproved" />
+      <item value="get sample unaudit skus" />
+      <item value="get sample not audit skus" />
+      <item value="get sample not audited skus" />
+      <item value="get sample not audited_" />
+      <item value="样衣未审核通过" />
+      <item value="get sample unaudit" />
+      <item value="get sample audit" />
       <item value="未审核" />
       <item value="sample audit sku types" />
       <item value="Sale Logic" />
@@ -41,21 +51,11 @@
       <item value="Jodit's Destructor. Remove editor, and return source input" />
       <item value="color Picker Default Tab" />
       <item value="Resizer" />
-      <item value="path Variable Name" />
-      <item value="with Credentials" />
-      <item value="greyscale" />
-      <item value="palette" />
-      <item value="boolean" />
-      <item value="TRAIT" />
-      <item value="dir" />
-      <item value="Directory &quot;%s&quot; was not created" />
-      <item value="Emits a notice (only variable references should be returned/passed by reference)" />
-      <item value="File upload stopped by extension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="347" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
