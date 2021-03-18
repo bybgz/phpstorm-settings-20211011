@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sample audit sku types" />
       <item value="Sale Logic" />
       <item value="Captcha" />
       <item value="全无仓" />
@@ -50,12 +51,11 @@
       <item value="Emits a notice (only variable references should be returned/passed by reference)" />
       <item value="File upload stopped by extension" />
       <item value="Checks if the cursor is at the end(start) block" />
-      <item value="$file relative path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
