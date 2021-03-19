@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no auth node" />
+      <item value="no auth controller" />
       <item value="skus of unapproved samples" />
       <item value="有skus of unapproved samples" />
       <item value="unapproved" />
@@ -49,13 +51,11 @@
       <item value="destory" />
       <item value="initialize" />
       <item value="Jodit's Destructor. Remove editor, and return source input" />
-      <item value="color Picker Default Tab" />
-      <item value="Resizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="JAPANESE" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
