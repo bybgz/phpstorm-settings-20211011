@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unhandled exceptions" />
       <item value="no auth node" />
       <item value="no auth controller" />
       <item value="skus of unapproved samples" />
@@ -50,11 +51,10 @@
       <item value="ready" />
       <item value="destory" />
       <item value="initialize" />
-      <item value="Jodit's Destructor. Remove editor, and return source input" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
+        <entry key="CHINESE" value="348" />
         <entry key="ENGLISH" value="348" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
