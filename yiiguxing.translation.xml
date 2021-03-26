@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple definitions exist for class 'Curd'" />
+      <item value="trait" />
       <item value="__construct is probably missing BaseController::__construct call." />
       <item value="Expected parameter of type 'array', 'string' provided" />
       <item value="Dev-packages have no security guaranties, invoke the package via require-dev instead." />
@@ -49,13 +51,11 @@
       <item value="Create a new PHPExcel_Worksheet_Drawing" />
       <item value="源" />
       <item value="Unreachable statement" />
-      <item value="prefix" />
-      <item value="Unreachable code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="349" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
