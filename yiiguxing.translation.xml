@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple definitions exist for class 'SystemAdmin'" />
       <item value="Create array containing variables and their values" />
       <item value="cols" />
       <item value="render" />
@@ -50,11 +51,10 @@
       <item value="respones" />
       <item value="adjust price" />
       <item value="Netherland" />
-      <item value="Netherlands" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
+        <entry key="CHINESE" value="356" />
         <entry key="ENGLISH" value="356" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
