@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="category id" />
+      <item value="cate Id" />
       <item value="get Each Level Category List" />
       <item value="Each Category" />
       <item value="Related" />
@@ -49,13 +51,11 @@
       <item value="set" />
       <item value="price collection" />
       <item value="tip" />
-      <item value="prompt" />
-      <item value="type point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
