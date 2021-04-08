@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Each Level Category List" />
       <item value="Each Category" />
       <item value="Related" />
       <item value="关联的类目" />
@@ -50,12 +51,11 @@
       <item value="tip" />
       <item value="prompt" />
       <item value="type point" />
-      <item value="Contents of collection 'country_names' are updated, but never queried" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
