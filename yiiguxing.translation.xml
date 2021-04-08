@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="关联的类目" />
       <item value="offset Get" />
       <item value="Please specify classes allowed for unserialization in 2nd argument." />
       <item value="Multiple definitions exist for class 'SystemAdmin'" />
@@ -50,11 +51,10 @@
       <item value="Contents of collection 'country_names' are updated, but never queried" />
       <item value="Dh Auto Dribution Task" />
       <item value="response" />
-      <item value="respones" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
+        <entry key="CHINESE" value="357" />
         <entry key="ENGLISH" value="357" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
