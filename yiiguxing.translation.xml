@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collection" />
       <item value="Make a string lowercase" />
       <item value="Perm" />
       <item value="cate List" />
@@ -50,12 +51,11 @@
       <item value="non" />
       <item value="清货" />
       <item value="no available shipping rule date" />
-      <item value="reference quotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
