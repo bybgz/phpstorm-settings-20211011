@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="input" />
+      <item value="If construct can be merged with parent one." />
       <item value="checkbox" />
       <item value="form-bottom-button" />
       <item value="buttom" />
@@ -49,13 +51,11 @@
       <item value="未审核" />
       <item value="sample audit sku types" />
       <item value="Sale Logic" />
-      <item value="Captcha" />
-      <item value="全无仓" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
