@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="video loaded meta data" />
+      <item value="loadedmetadata" />
+      <item value="edmetadata" />
+      <item value="edmeta" />
       <item value="definition" />
       <item value="input" />
       <item value="If construct can be merged with parent one." />
@@ -47,15 +51,12 @@
       <item value="get sample not audited skus" />
       <item value="get sample not audited_" />
       <item value="样衣未审核通过" />
-      <item value="get sample unaudit" />
-      <item value="get sample audit" />
-      <item value="未审核" />
-      <item value="sample audit sku types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
@@ -66,7 +67,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
