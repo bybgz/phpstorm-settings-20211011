@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="export country" />
+      <item value="model" />
       <item value="Return ASCII value of character" />
       <item value="multiple" />
       <item value="selector" />
@@ -49,13 +51,11 @@
       <item value="__construct is probably missing BaseController::__construct call." />
       <item value="Expected parameter of type 'array', 'string' provided" />
       <item value="Dev-packages have no security guaranties, invoke the package via require-dev instead." />
-      <item value="Unhandled exceptions" />
-      <item value="no auth node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
