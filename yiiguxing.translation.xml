@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jodit Initialize" />
       <item value="original" />
       <item value="orignal" />
       <item value="PATHINFO EXTENSION" />
@@ -50,12 +51,12 @@
       <item value="publish" />
       <item value="express" />
       <item value="PHPDoc comment doesn't contain all the necessary @throws tags" />
-      <item value="Multiple definitions exist for class 'Curd'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
+        <entry key="CHINESE" value="390" />
         <entry key="ENGLISH" value="390" />
+        <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
