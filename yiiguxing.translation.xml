@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jodit Initialize" />
       <item value="loop count" />
       <item value="detail module" />
       <item value="基本信息" />
       <item value="addinfomationmodel" />
-      <item value="jodit Initialize" />
       <item value="original" />
       <item value="orignal" />
       <item value="PATHINFO EXTENSION" />
@@ -54,9 +54,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
+        <entry key="CHINESE" value="394" />
         <entry key="ENGLISH" value="394" />
-        <entry key="ALBANIAN" value="1" />
+        <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
