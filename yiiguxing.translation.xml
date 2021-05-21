@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="autofocus" />
+      <item value="show Gutter" />
       <item value="jodit Initialize" />
       <item value="loop count" />
       <item value="detail module" />
@@ -49,13 +51,11 @@
       <item value="cols" />
       <item value="line To Hump" />
       <item value="sale" />
-      <item value="$sale" />
-      <item value="saler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
