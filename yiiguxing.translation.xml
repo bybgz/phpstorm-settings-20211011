@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loop count" />
       <item value="detail module" />
       <item value="基本信息" />
       <item value="addinfomationmodel" />
@@ -50,12 +51,11 @@
       <item value="sale" />
       <item value="$sale" />
       <item value="saler" />
-      <item value="$saler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
