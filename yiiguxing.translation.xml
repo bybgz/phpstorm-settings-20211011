@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="所需选项" />
       <item value="select unfold" />
       <item value="展开" />
       <item value="expansion" />
@@ -50,11 +51,10 @@
       <item value="cate List" />
       <item value="category id" />
       <item value="cate Id" />
-      <item value="get Each Level Category List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
+        <entry key="CHINESE" value="405" />
         <entry key="ENGLISH" value="405" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
