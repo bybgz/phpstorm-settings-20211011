@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="options" />
       <item value="inner" />
       <item value="margin-top-bottom" />
       <item value="所需选项" />
@@ -50,12 +51,11 @@
       <item value="Collection" />
       <item value="Make a string lowercase" />
       <item value="Perm" />
-      <item value="cate List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
