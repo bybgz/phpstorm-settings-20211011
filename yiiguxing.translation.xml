@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parents" />
+      <item value="Parent" />
       <item value="attr" />
       <item value="cate" />
       <item value="units" />
@@ -49,13 +51,11 @@
       <item value="definition" />
       <item value="input" />
       <item value="If construct can be merged with parent one." />
-      <item value="checkbox" />
-      <item value="form-bottom-button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
