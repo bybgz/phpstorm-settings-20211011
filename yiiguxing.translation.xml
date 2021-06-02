@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cate" />
+      <item value="units" />
+      <item value="unit" />
       <item value="options" />
       <item value="inner" />
       <item value="margin-top-bottom" />
@@ -48,14 +51,11 @@
       <item value="checkbox" />
       <item value="form-bottom-button" />
       <item value="buttom" />
-      <item value="Collection" />
-      <item value="Make a string lowercase" />
-      <item value="Perm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
@@ -64,7 +64,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
