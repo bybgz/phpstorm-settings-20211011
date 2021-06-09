@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$detail file path" />
+      <item value="org exist" />
       <item value="$recursive" />
       <item value="Attempts to create the directory specified by pathname." />
       <item value="path" />
@@ -49,13 +51,11 @@
       <item value="model" />
       <item value="Return ASCII value of character" />
       <item value="multiple" />
-      <item value="selector" />
-      <item value="is pack sell" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
