@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="addinfomationmodel" />
       <item value="$detail file path" />
       <item value="org exist" />
       <item value="$recursive" />
@@ -42,7 +43,6 @@
       <item value="loop count" />
       <item value="detail module" />
       <item value="基本信息" />
-      <item value="addinfomationmodel" />
       <item value="original" />
       <item value="orignal" />
       <item value="PATHINFO EXTENSION" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
