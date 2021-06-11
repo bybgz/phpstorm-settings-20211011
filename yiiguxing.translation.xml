@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$have location skus" />
       <item value="sample" />
       <item value="Sample" />
       <item value="simpla" />
@@ -50,12 +51,11 @@
       <item value="基本信息" />
       <item value="original" />
       <item value="orignal" />
-      <item value="PATHINFO EXTENSION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
