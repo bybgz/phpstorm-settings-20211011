@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plaform" />
+      <item value="plaform" />
       <item value="Brand Infringement" />
       <item value="check Forbidden" />
       <item value="Forbidden" />
@@ -49,8 +51,6 @@
       <item value="Secret" />
       <item value="fashion" />
       <item value="$intersection" />
-      <item value="path Variable Name" />
-      <item value="with Credentials" />
     </histories>
     <option name="languageScores">
       <map>
