@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sample" />
+      <item value="Sample" />
       <item value="simpla" />
       <item value="$time out" />
       <item value="infringement" />
@@ -49,8 +51,6 @@
       <item value="original" />
       <item value="orignal" />
       <item value="PATHINFO EXTENSION" />
-      <item value="thumb" />
-      <item value="export country" />
     </histories>
     <option name="languageScores">
       <map>
