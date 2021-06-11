@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rate" />
+      <item value="汇率" />
+      <item value="Currency" />
+      <item value="rates" />
+      <item value="$rates" />
       <item value="Plaform" />
       <item value="plaform" />
       <item value="Brand Infringement" />
@@ -46,16 +51,11 @@
       <item value="所需选项" />
       <item value="select unfold" />
       <item value="展开" />
-      <item value="expansion" />
-      <item value="top Secret" />
-      <item value="Secret" />
-      <item value="fashion" />
-      <item value="$intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
