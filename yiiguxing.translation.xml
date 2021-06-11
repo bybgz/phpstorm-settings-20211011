@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sku infringement" />
+      <item value="检查是否为黑名单仓库" />
+      <item value="store" />
+      <item value="onhandle" />
       <item value="Review" />
       <item value="Audit" />
       <item value="$have location skus" />
@@ -47,20 +51,17 @@
       <item value="compatible with jQuery" />
       <item value="autofocus" />
       <item value="show Gutter" />
-      <item value="jodit Initialize" />
-      <item value="loop count" />
-      <item value="detail module" />
-      <item value="基本信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="437" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
