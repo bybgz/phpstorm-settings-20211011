@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Review" />
+      <item value="Audit" />
       <item value="$have location skus" />
       <item value="sample" />
       <item value="Sample" />
@@ -49,13 +51,11 @@
       <item value="loop count" />
       <item value="detail module" />
       <item value="基本信息" />
-      <item value="original" />
-      <item value="orignal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
