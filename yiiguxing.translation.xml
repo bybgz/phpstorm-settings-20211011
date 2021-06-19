@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch Down Shelf" />
       <item value="void" />
       <item value="decode data" />
       <item value="$parameters" />
@@ -50,12 +51,11 @@
       <item value="gross Profit" />
       <item value="logistics Channels" />
       <item value="$logistics Channels" />
-      <item value="shipment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
