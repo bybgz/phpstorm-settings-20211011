@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Child" />
+      <item value="Children" />
       <item value="batch Down Shelf" />
       <item value="void" />
       <item value="decode data" />
@@ -49,13 +51,11 @@
       <item value="Attempts to create the directory specified by pathname." />
       <item value="path" />
       <item value="gross Profit" />
-      <item value="logistics Channels" />
-      <item value="$logistics Channels" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="463" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
