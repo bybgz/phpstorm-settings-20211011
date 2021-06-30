@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$file Path" />
       <item value="Auto Generate Ae Image Upload Task" />
       <item value="generate" />
       <item value="delete" />
@@ -50,12 +51,11 @@
       <item value="Audit" />
       <item value="$have location skus" />
       <item value="sample" />
-      <item value="Sample" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="473" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
