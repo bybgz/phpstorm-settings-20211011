@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$start Time" />
+      <item value="calibration" />
       <item value="Ae Publish Task Execute" />
       <item value="Auto Pull Ae Image From Qimen" />
       <item value="redefining" />
@@ -49,13 +51,11 @@
       <item value="$rates" />
       <item value="Plaform" />
       <item value="plaform" />
-      <item value="Brand Infringement" />
-      <item value="check Forbidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="484" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
