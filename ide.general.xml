@@ -11,11 +11,9 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="bigger.font.in.project.view" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
-    <entry key="vcs.annotations.preload" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
