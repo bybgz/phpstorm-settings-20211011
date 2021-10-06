@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extra column html" />
       <item value="render" />
       <item value="array merge" />
       <item value="array column" />
@@ -50,12 +51,11 @@
       <item value="An Brainstorm Plugin to create single file vue.js components with a Sass file along them and complete vuex modules. This plugins does a couple of things in order to simplify your dev experien" />
       <item value="Getting started Open your Vue.js project. Make sure you have Vue.js listed in your project dependencies in package.json and it is installed. Now, you will get Vue-specific code completion, navigation, and many other features in .vue files. Features Completion for components, directives, props and methods in templates Navigation from the component, directives and event handlers to their definition Coding assistance for different languages inside template, script and style tags in .vue files Extract component and rename component refactorings Collection of code snippets for Vue.js Create new projects from the IDE Welcome screen using Vue CLI Learn more about Vue.js support in the IDE documentation. Limitations Vue components defined using separate .html, .js, and .css files are not supported: WEB-32274." />
       <item value="PhpStorm Workshop Project is a set of practical exercises that help you learn about different features and productivity tools available in PhpStorm. The project consists of many small lessons divided into areas such as Completion, Navigation, Debugging, Testing, REST client, and others. Every file in the project is a new exercise with code, explanations, and tips on how to get things done." />
-      <item value="Git, SVN, Mercurial, and other VCS plugins provide the Annotate action that displays the last revision and user id for every line of the currently edited file, so you can easily see where this or that code came from. Sometimes this action takes a significant amount of time to run because the IDE has to load and process a lot of data from VCS. This plugin speeds this process up by preloading and caching the data required to run the Annotate action when you open a file. So if you're using the Annotate action often, the plugin is surely worth checking out." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
