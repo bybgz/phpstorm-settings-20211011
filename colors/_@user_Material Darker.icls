@@ -3,14 +3,14 @@
     <property name="created">2019-07-06T12:01:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2021-10-08T13:46:22</property>
+    <property name="modified">2021-10-08T14:54:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="17ff63" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffd805" />
-    <option name="CARET_ROW_COLOR" value="242424" />
+    <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="ff4f54" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -41,14 +41,14 @@
     <option name="FILESTATUS_addedOutside" value="22863a" />
     <option name="FILESTATUS_changelistConflict" value="d73a49" />
     <option name="FILESTATUS_modifiedOutside" value="5cc5" />
-    <option name="GUTTER_BACKGROUND" value="1a1a1a" />
+    <option name="GUTTER_BACKGROUND" value="151515" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="666666" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
+    <option name="LINE_NUMBERS_COLOR" value="535353" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fffb00" />
     <option name="MODIFIED_LINES_COLOR" value="cabff" />
     <option name="MODIFIED_TAB_ICON" value="5592d4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -59,7 +59,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffa700" />
-    <option name="SELECTION_BACKGROUND" value="2e2e2e" />
+    <option name="SELECTION_BACKGROUND" value="262626" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="ScrollBar.hoverThumbColor" value="ff9800" />
@@ -1255,7 +1255,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f8e71c" />
+        <option name="EFFECT_COLOR" value="fffb00" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -2271,7 +2271,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fef940" />
+        <option name="FOREGROUND" value="fffb00" />
         <option name="BACKGROUND" value="383838" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
@@ -3702,7 +3702,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d1b46d" />
+        <option name="FOREGROUND" value="ffb400" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3739,7 +3739,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ff274a" />
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -3777,7 +3777,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f8e71c" />
+        <option name="EFFECT_COLOR" value="fffb00" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
