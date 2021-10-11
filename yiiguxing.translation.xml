@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extra data" />
       <item value="delivery" />
       <item value="Statement" />
       <item value="creat" />
@@ -50,7 +51,6 @@
       <item value="This message will only appear once for each new version. The GitHub Sponsors link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
       <item value="Since its first release, the Key Promoter X has now more than 650.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a by-product of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please consider sponsoring me on GitHub. And don't forget to star the GitHub repository and leave a rating on the JetBrains plugin site. Finally, don't be too shy to connect on LinkedIn. I'd like to know in which parts of the world the Key Promoter X is used." />
       <item value="CUBA Studio is a specialized tool for CUBA Platform – an open source JVM framework for business applications. Studio is a full featured Rapid Application Development tool offering extensive code generation, visual designers, smart prompts and convenient code navigation. Develop enterprise-grade solutions with comfort and high productivity! Documentation:" />
-      <item value="Provides intelligent spelling and grammar checks for text that you write in the IDE. Supports over 15 languages, including English, German, Russian, Chinese, and others. Recognizes natural language constructs in programming languages (Kotlin, Python, Java and others), markup languages (Latex, Markdown, XML, HTML), comments, commits messages, and more. Uses LanguageTool as its proofreading engine. English is enabled by default when you install the plugin. To enable other languages, open Settings/Preferences and select Tools &gt; Grazie. NOTE: All verification is performed locally, inside your IDE." />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,9 +70,11 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1633918665053" />
+  </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
-    <option name="ignoreRegExp" value="" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showExplanation" value="true" />
