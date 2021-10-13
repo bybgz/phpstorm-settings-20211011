@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="E:\phpStudy\PHPTutorial\php\php-7.2.1-nts\php.exe" id="944eb1b9-e56e-4d09-b895-a6c20634bc26" name="PHP 7.2.1" debugger_id="php.debugger.XDebug" />
+      <interpreter id="944eb1b9-e56e-4d09-b895-a6c20634bc26" name="PHP 7.2.1" home="E:\phpStudy\PHPTutorial\php\php-7.2.1-nts\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -322,8 +322,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>

@@ -1,5 +1,0 @@
-<keymap version="1" name="Eclipse 副本" parent="Eclipse">
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-</keymap>

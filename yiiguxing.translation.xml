@@ -1,23 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="689" />
+    <option name="newTranslationDialogY" value="339" />
     <histories>
-      <item value="Key Features 5" />
-      <item value="输入" />
-      <item value="extra input" />
-      <item value="input" />
-      <item value="respect" />
-      <item value="grab" />
-      <item value="extra column html" />
-      <item value="render" />
-      <item value="array merge" />
-      <item value="array column" />
-      <item value="Support for Symfony framework components." />
-      <item value="Extends PhpStorm to support annotations in DocBlocks" />
-      <item value="Support for Handlebars and Mustache template languages Features" />
-      <item value="Code With Me is a new service created by JetBrains for collaborative development and pair programming. It enables you to share the currently opened project in your IDE with others, and work on it together in real time." />
-      <item value="completed" />
-      <item value="complete" />
-      <item value="Synchronizes settings across all IDE installations. To sync, log in with your JetBrains Account (JBA). Settings synced are: UI and editor themes, keymaps, enabled and disabled plugins." />
+      <item value="Enable the Symfony Plugin with auto configuration now, open Project Settings or dismiss further messages" />
+      <item value="extra data" />
       <item value="delivery" />
       <item value="Statement" />
       <item value="creat" />
@@ -51,11 +39,26 @@
       <item value="Insert the given attributes and set the ID on the model." />
       <item value="$dh Item Listing" />
       <item value="Please ensure this is not a forgotten debug statement. Inspection info: Documentation can be found here" />
+      <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
+      <item value="Please ensure this is not a forgotten debug statement." />
+      <item value="下载店铺产品长描内容" />
+      <item value="An Brainstorm Plugin to create single file vue.js components with a Sass file along them and complete vuex modules. This plugins does a couple of things in order to simplify your dev experien" />
+      <item value="Getting started Open your Vue.js project. Make sure you have Vue.js listed in your project dependencies in package.json and it is installed. Now, you will get Vue-specific code completion, navigation, and many other features in .vue files. Features Completion for components, directives, props and methods in templates Navigation from the component, directives and event handlers to their definition Coding assistance for different languages inside template, script and style tags in .vue files Extract component and rename component refactorings Collection of code snippets for Vue.js Create new projects from the IDE Welcome screen using Vue CLI Learn more about Vue.js support in the IDE documentation. Limitations Vue components defined using separate .html, .js, and .css files are not supported: WEB-32274." />
+      <item value="PhpStorm Workshop Project is a set of practical exercises that help you learn about different features and productivity tools available in PhpStorm. The project consists of many small lessons divided into areas such as Completion, Navigation, Debugging, Testing, REST client, and others. Every file in the project is a new exercise with code, explanations, and tips on how to get things done." />
+      <item value="Git, SVN, Mercurial, and other VCS plugins provide the Annotate action that displays the last revision and user id for every line of the currently edited file, so you can easily see where this or that code came from. Sometimes this action takes a significant amount of time to run because the IDE has to load and process a lot of data from VCS. This plugin speeds this process up by preloading and caching the data required to run the Annotate action when you open a file. So if you're using the Annotate action often, the plugin is surely worth checking out." />
+      <item value="VCS watch is a plugin that periodically checks for any changes in the current project's repositories. Features Support GIT repositories Support SVN repositories Support Mercurial repositories Feature requests Exclude project repositories from watching Specify watch interval" />
+      <item value="Run command... functionality became a part of Run Anything. Now you can invoke it with: Double Ctrl Type framework's alias in Run Anything's window for completion" />
+      <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDE" />
+      <item value="It's a plugin to encode/decode [hex]string, based on Base64 algorithm." />
+      <item value="New features release. Supporters via Patreon are wanted. - Magic methods validity: new patterns - ::class can be used: new patterns - 'is_countable(...)' can be used: implemented - 'is_iterable(...)' can be used: implemented - Class property initialization flaws: resolved a false-positive (typed properties) - Long inheritance chain: new settings - Type casting can be used: new settings" />
+      <item value="Big news folks, new crowd-funding campaign starts 15 January 2020. It'll fund JS Inspections (EA Extended) creation, and we need your support: when campaign starts, please share it in social networks. Preview is available here!" />
+      <item value="This message will only appear once for each new version. The GitHub Sponsors link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
+      <item value="Since its first release, the Key Promoter X has now more than 650.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a by-product of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please consider sponsoring me on GitHub. And don't forget to star the GitHub repository and leave a rating on the JetBrains plugin site. Finally, don't be too shy to connect on LinkedIn. I'd like to know in which parts of the world the Key Promoter X is used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="248" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -71,20 +74,13 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633315653765" />
+    <option name="lastTrimTime" value="1633918665053" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
-    <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
