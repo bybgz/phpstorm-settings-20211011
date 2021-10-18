@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="profit margin" />
+      <item value="profit" />
+      <item value="fee" />
+      <item value="parcel" />
+      <item value="discount" />
       <item value="console" />
       <item value="command" />
       <item value="Enable the Symfony Plugin with auto configuration now, open Project Settings or dismiss further messages" />
@@ -49,16 +54,11 @@
       <item value="PhpStorm Workshop Project is a set of practical exercises that help you learn about different features and productivity tools available in PhpStorm. The project consists of many small lessons divided into areas such as Completion, Navigation, Debugging, Testing, REST client, and others. Every file in the project is a new exercise with code, explanations, and tips on how to get things done." />
       <item value="Git, SVN, Mercurial, and other VCS plugins provide the Annotate action that displays the last revision and user id for every line of the currently edited file, so you can easily see where this or that code came from. Sometimes this action takes a significant amount of time to run because the IDE has to load and process a lot of data from VCS. This plugin speeds this process up by preloading and caching the data required to run the Annotate action when you open a file. So if you're using the Annotate action often, the plugin is surely worth checking out." />
       <item value="VCS watch is a plugin that periodically checks for any changes in the current project's repositories. Features Support GIT repositories Support SVN repositories Support Mercurial repositories Feature requests Exclude project repositories from watching Specify watch interval" />
-      <item value="Run command... functionality became a part of Run Anything. Now you can invoke it with: Double Ctrl Type framework's alias in Run Anything's window for completion" />
-      <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDE" />
-      <item value="It's a plugin to encode/decode [hex]string, based on Base64 algorithm." />
-      <item value="New features release. Supporters via Patreon are wanted. - Magic methods validity: new patterns - ::class can be used: new patterns - 'is_countable(...)' can be used: implemented - 'is_iterable(...)' can be used: implemented - Class property initialization flaws: resolved a false-positive (typed properties) - Long inheritance chain: new settings - Type casting can be used: new settings" />
-      <item value="Big news folks, new crowd-funding campaign starts 15 January 2020. It'll fund JS Inspections (EA Extended) creation, and we need your support: when campaign starts, please share it in social networks. Preview is available here!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633918665053" />
+    <option name="lastTrimTime" value="1634546541237" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
