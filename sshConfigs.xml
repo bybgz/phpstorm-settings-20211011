@@ -1,13 +1,13 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="192.168.1.81" id="f8d93e28-679e-4e8f-8c2a-899d074bd2b0" port="22" customName="192.168.1.81" nameFormat="CUSTOM" username="zhangaofei">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.81" id="f8d93e28-679e-4e8f-8c2a-899d074bd2b0" port="22" customName="192.168.1.81" nameFormat="CUSTOM" username="zhangaofei">
         <option name="customName" value="192.168.1.81" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.24" id="1f272d65-e265-4760-940a-954010ed128f" port="22" customName="192.168.1.24" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.24" id="1f272d65-e265-4760-940a-954010ed128f" port="22" customName="192.168.1.24" nameFormat="CUSTOM" username="root">
         <option name="customName" value="192.168.1.24" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.16" id="a836796f-bc7c-468b-a7d9-5c17a13bd31b" port="22" customName="192.168.1.16" nameFormat="CUSTOM" username="zhangaofei">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.16" id="a836796f-bc7c-468b-a7d9-5c17a13bd31b" port="22" customName="192.168.1.16" nameFormat="CUSTOM" username="zhangaofei">
         <option name="customName" value="192.168.1.16" />
       </sshConfig>
     </configs>
