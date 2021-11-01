@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="pudo" />
+      <item value="pudo service" />
+      <item value="doorDelivery" />
       <item value="push" />
       <item value="未选" />
       <item value="column" />
@@ -51,14 +54,11 @@
       <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available: Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply' Switch between Preview and Plain mode: Right click on the editor Press 'Switch to Plain/Preview Mode' Alternatively use the shortcut 'ctrl meta A' while on the editor Only the below graphic rendition codes are supported: Reset code (0) Bold code (1) Italic code (3) Single Underline code (4) All text foreground color codes (30-37) All text background color codes (40-47) Customize ANSI colors: Go to Preferences | Editor | Colors &amp; Fonts | Console Colors Expand 'ANSI Colors' Customize the following foreground/background colors: Black Red Green Yellow Blue Magenta Cyan White Other colors are only supported by the console (not by the editor). Press 'Apply'" />
       <item value="Insert the given attributes and set the ID on the model." />
       <item value="$dh Item Listing" />
-      <item value="Please ensure this is not a forgotten debug statement. Inspection info: Documentation can be found here" />
-      <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
-      <item value="Please ensure this is not a forgotten debug statement." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635152043438" />
+    <option name="lastTrimTime" value="1635729946460" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
