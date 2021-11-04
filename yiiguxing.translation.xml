@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="repair" />
       <item value="figure" />
       <item value="letter" />
       <item value="Walmart" />
@@ -53,7 +54,6 @@
       <item value="No data sources are configured to run this SQL and provide advanced code assistance. Disable this inspection via problem menu (Alt+Enter)." />
       <item value="Double quote array expansions to avoid re-splitting elements. See SC2068." />
       <item value="A custom Gruvbox theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell... To install: Go to Settings (Preferences) | Plugins, find the theme plugin and install it. Restart IDE. Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and see the Theme dropdown." />
-      <item value="A plugin for JetBrains WebStorm to handle logs" />
     </histories>
     <option name="languageScores">
       <map>
