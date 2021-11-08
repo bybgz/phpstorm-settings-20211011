@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="is used in a loop and is a resources greedy construction" />
       <item value="repair" />
       <item value="figure" />
       <item value="letter" />
@@ -53,11 +54,10 @@
       <item value="Consider using pgrep instead of grepping ps output." />
       <item value="No data sources are configured to run this SQL and provide advanced code assistance. Disable this inspection via problem menu (Alt+Enter)." />
       <item value="Double quote array expansions to avoid re-splitting elements. See SC2068." />
-      <item value="A custom Gruvbox theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell... To install: Go to Settings (Preferences) | Plugins, find the theme plugin and install it. Restart IDE. Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and see the Theme dropdown." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
+        <entry key="CHINESE" value="267" />
         <entry key="ENGLISH" value="267" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635729946460" />
+    <option name="lastTrimTime" value="1636361516696" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
