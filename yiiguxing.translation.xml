@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="child_values is immediately overridden, perhaps it was intended to use 'else' here" />
       <item value="sorry" />
       <item value="response" />
       <item value="respones" />
@@ -53,11 +54,10 @@
       <item value="Use 'cd ... || exit' or 'cd ... || return' in case cd fails." />
       <item value="Double quote array expansions to avoid re-splitting elements." />
       <item value="Remove backticks to avoid executing output." />
-      <item value="Double quote to prevent globbing and word splitting." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
+        <entry key="CHINESE" value="269" />
         <entry key="ENGLISH" value="269" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
