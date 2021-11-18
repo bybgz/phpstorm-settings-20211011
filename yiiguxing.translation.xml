@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="排除" />
       <item value="USD" />
       <item value="first" />
       <item value="child_values is immediately overridden, perhaps it was intended to use 'else' here" />
@@ -53,7 +54,6 @@
       <item value="expression" />
       <item value="JSON Web Token Parser and Analyzer. Visualize JWT contents in a tabular form Verify signature (HS256 and RS256 support) Verify validity of timestamp-based claims Visualize timestamp-based claims in unix / ISO / human relative format Edit claim values: dedicated editor for string, timestamp, boolean, numeric and raw JSON values Set default keypair for RS256 validation in Preferences." />
       <item value="This plugin provides &quot;Method References&quot; and &quot;Type Provider&quot; extracted from the Symfony Plugin. You can configure the plugin with simple per project files .ide-toolbox.metadata.json to support for eg $f-&gt;('date_time')-&gt;format, new Datetime('caret'). Also it improves some PhpStorm Core functionality." />
-      <item value="Use 'cd ... || exit' or 'cd ... || return' in case cd fails." />
     </histories>
     <option name="languageScores">
       <map>
