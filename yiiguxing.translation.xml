@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="This variable must be unset just after foreach to prevent possible side-effects." />
       <item value="primary" />
       <item value="排除" />
       <item value="USD" />
@@ -53,11 +54,10 @@
       <item value="expression expexted" />
       <item value="expression except" />
       <item value="expression" />
-      <item value="JSON Web Token Parser and Analyzer. Visualize JWT contents in a tabular form Verify signature (HS256 and RS256 support) Verify validity of timestamp-based claims Visualize timestamp-based claims in unix / ISO / human relative format Edit claim values: dedicated editor for string, timestamp, boolean, numeric and raw JSON values Set default keypair for RS256 validation in Preferences." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
+        <entry key="CHINESE" value="272" />
         <entry key="ENGLISH" value="272" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
