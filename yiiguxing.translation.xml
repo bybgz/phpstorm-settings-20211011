@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="is used in a loop and is a resources greedy construction." />
+      <item value="Perhaps array_mergearray_replace can be used instead. Feel free to disable the inspection if '+' is intended." />
       <item value="This variable must be unset just after foreach to prevent possible side-effects." />
       <item value="primary" />
       <item value="排除" />
@@ -52,12 +54,10 @@
       <item value="Exposes a connection to MITM attacks. Use 2 (default) to stay safe." />
       <item value="expression expected" />
       <item value="expression expexted" />
-      <item value="expression except" />
-      <item value="expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
+        <entry key="CHINESE" value="274" />
         <entry key="ENGLISH" value="272" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
