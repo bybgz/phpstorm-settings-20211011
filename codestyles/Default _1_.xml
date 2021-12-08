@@ -27,7 +27,6 @@
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
-    <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
