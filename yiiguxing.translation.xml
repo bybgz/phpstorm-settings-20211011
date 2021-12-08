@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="New value type (bool) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="哂笑" />
       <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
       <item value="is used in a loop and is a resources greedy construction." />
@@ -53,11 +54,10 @@
       <item value="material" />
       <item value="material font" />
       <item value="accent" />
-      <item value="Exposes a connection to MITM attacks. Use 2 (default) to stay safe." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
+        <entry key="CHINESE" value="277" />
         <entry key="ENGLISH" value="273" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
