@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="prepage" />
       <item value="New value type (bool) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="哂笑" />
       <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
@@ -53,7 +54,6 @@
       <item value="Perform a model insert operation." />
       <item value="material" />
       <item value="material font" />
-      <item value="accent" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
