@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="supplement" />
       <item value="assign" />
       <item value="currency code" />
       <item value="categories" />
@@ -53,12 +54,11 @@
       <item value="delivery" />
       <item value="Statement" />
       <item value="creat" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639446933722" />
+    <option name="lastTrimTime" value="1640058581957" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
