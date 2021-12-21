@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="mix" />
+      <item value="intersect" />
       <item value="supplement" />
       <item value="assign" />
       <item value="currency code" />
@@ -52,13 +54,11 @@
       <item value="Enable the Symfony Plugin with auto configuration now, open Project Settings or dismiss further messages" />
       <item value="extra data" />
       <item value="delivery" />
-      <item value="Statement" />
-      <item value="creat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
