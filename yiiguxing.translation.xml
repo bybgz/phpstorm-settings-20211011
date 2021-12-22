@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="statuss" />
+      <item value="status" />
+      <item value="statuses" />
       <item value="通知" />
       <item value="prompt" />
       <item value="notify" />
@@ -51,18 +54,16 @@
       <item value="profit margin" />
       <item value="profit" />
       <item value="get adjust price" />
-      <item value="计算区域调价" />
-      <item value="fee" />
-      <item value="parcel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="286" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
+        <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
