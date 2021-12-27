@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="sales" />
       <item value="statuss" />
       <item value="status" />
       <item value="statuses" />
@@ -53,7 +54,6 @@
       <item value="database" />
       <item value="profit margin" />
       <item value="profit" />
-      <item value="get adjust price" />
     </histories>
     <option name="languageScores">
       <map>
