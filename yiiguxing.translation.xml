@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="visible" />
       <item value="This variable must be unset just after foreach to prevent possible side-effects." />
       <item value="saler" />
       <item value="sales" />
@@ -53,7 +54,6 @@
       <item value="未选" />
       <item value="column" />
       <item value="database" />
-      <item value="profit margin" />
     </histories>
     <option name="languageScores">
       <map>
