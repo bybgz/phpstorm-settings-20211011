@@ -4,10 +4,10 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="format" />
       <item value="target" />
       <item value="field" />
       <item value="filed" />
-      <item value="format" />
       <item value="get Form Required Data" />
       <item value="visible" />
       <item value="This variable must be unset just after foreach to prevent possible side-effects." />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
