@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="target" />
+      <item value="field" />
+      <item value="filed" />
       <item value="format" />
       <item value="get Form Required Data" />
       <item value="visible" />
@@ -51,14 +54,11 @@
       <item value="Start" />
       <item value="pudo" />
       <item value="pudo service" />
-      <item value="doorDelivery" />
-      <item value="push" />
-      <item value="未选" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640058581957" />
+    <option name="lastTrimTime" value="1641461362436" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
