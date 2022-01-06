@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="format" />
       <item value="get Form Required Data" />
       <item value="visible" />
       <item value="This variable must be unset just after foreach to prevent possible side-effects." />
@@ -53,7 +54,6 @@
       <item value="doorDelivery" />
       <item value="push" />
       <item value="未选" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
