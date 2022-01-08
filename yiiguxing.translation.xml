@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="cascader" />
       <item value="jodit Initialize" />
       <item value="capitalize" />
       <item value="length" />
@@ -53,7 +54,6 @@
       <item value="str" />
       <item value="字母" />
       <item value="walmart sku prefixs" />
-      <item value="begin" />
     </histories>
     <option name="languageScores">
       <map>
