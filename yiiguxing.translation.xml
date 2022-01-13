@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="各级全称" />
       <item value="fullscreen" />
       <item value="ref" />
       <item value="get Child Category" />
@@ -53,7 +54,6 @@
       <item value="repair" />
       <item value="figure" />
       <item value="letter" />
-      <item value="Walmart" />
     </histories>
     <option name="languageScores">
       <map>
