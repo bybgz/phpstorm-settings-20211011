@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="statistics" />
+      <item value="stastics" />
       <item value="count" />
       <item value="hint" />
       <item value="prompt" />
@@ -52,13 +54,11 @@
       <item value="sorry" />
       <item value="response" />
       <item value="respones" />
-      <item value="is used in a loop and is a resources greedy construction" />
-      <item value="repair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -69,6 +69,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
