@@ -3,7 +3,7 @@
     <property name="created">2019-07-06T12:01:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2022-01-19T09:27:36</property>
+    <property name="modified">2022-01-19T17:50:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -861,8 +861,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="e14c61" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="e14c61" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -890,7 +890,7 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="EFFECT_COLOR" value="e14c61" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
