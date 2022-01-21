@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="finance gross profit order" />
       <item value="statistics" />
       <item value="stastics" />
       <item value="count" />
@@ -53,12 +54,11 @@
       <item value="child_values is immediately overridden, perhaps it was intended to use 'else' here" />
       <item value="sorry" />
       <item value="response" />
-      <item value="respones" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
