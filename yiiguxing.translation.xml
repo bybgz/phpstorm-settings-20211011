@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="group collection" />
+      <item value="集" />
       <item value="sum" />
       <item value="date range" />
       <item value="finance gross profit order" />
@@ -52,13 +54,11 @@
       <item value="primary" />
       <item value="排除" />
       <item value="USD" />
-      <item value="first" />
-      <item value="child_values is immediately overridden, perhaps it was intended to use 'else' here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
