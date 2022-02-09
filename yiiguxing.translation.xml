@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Reordering keys in natural ascending order would enable array optimizations here." />
       <item value="confirm" />
       <item value="handle Category Cancel" />
       <item value="group collection" />
@@ -53,11 +54,10 @@
       <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
       <item value="is used in a loop and is a resources greedy construction." />
       <item value="Perhaps array_mergearray_replace can be used instead. Feel free to disable the inspection if '+' is intended." />
-      <item value="primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
+        <entry key="CHINESE" value="304" />
         <entry key="ENGLISH" value="304" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DUTCH" value="1" />
