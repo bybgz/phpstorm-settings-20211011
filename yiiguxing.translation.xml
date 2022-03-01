@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="calculate" />
+      <item value="calc" />
       <item value="previous" />
       <item value="pre" />
       <item value="prev" />
@@ -52,13 +54,11 @@
       <item value="CN" />
       <item value="mix" />
       <item value="intersect" />
-      <item value="supplement" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
