@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="unique" />
       <item value="sort" />
       <item value="calculate" />
       <item value="calc" />
@@ -53,12 +54,11 @@
       <item value="notice" />
       <item value="Common Model" />
       <item value="CN" />
-      <item value="mix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
