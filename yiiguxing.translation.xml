@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Visible" />
+      <item value="dialog Visible" />
       <item value="handle Avatar Success" />
       <item value="Avatar" />
       <item value="handle Image Preview" />
@@ -11,7 +13,6 @@
       <item value="handle Preview" />
       <item value="Preview" />
       <item value="dialog Image Url" />
-      <item value="dialog Visible" />
       <item value="自定义属性名称" />
       <item value="calculat" />
       <item value="calculator" />
@@ -53,12 +54,11 @@
       <item value="field" />
       <item value="filed" />
       <item value="get Form Required Data" />
-      <item value="visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
