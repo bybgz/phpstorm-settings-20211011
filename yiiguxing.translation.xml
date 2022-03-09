@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="cate Attr Input Placeholder" />
+      <item value="number String Interchange" />
       <item value="Visible" />
       <item value="dialog Visible" />
       <item value="handle Avatar Success" />
@@ -52,13 +54,11 @@
       <item value="format" />
       <item value="target" />
       <item value="field" />
-      <item value="filed" />
-      <item value="get Form Required Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
