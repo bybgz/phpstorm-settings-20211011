@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Pixel" />
       <item value="charged" />
       <item value="cate Attr Input Placeholder" />
       <item value="number String Interchange" />
@@ -53,12 +54,11 @@
       <item value="capitalize" />
       <item value="length" />
       <item value="format" />
-      <item value="target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
