@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Elem" />
       <item value="Pixel" />
       <item value="charged" />
       <item value="cate Attr Input Placeholder" />
@@ -53,7 +54,6 @@
       <item value="jodit Initialize" />
       <item value="capitalize" />
       <item value="length" />
-      <item value="format" />
     </histories>
     <option name="languageScores">
       <map>
