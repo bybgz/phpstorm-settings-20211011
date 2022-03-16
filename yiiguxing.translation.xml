@@ -1,80 +1,85 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
-      <item value="Enable the Symfony Plugin with auto configuration now, open Project Settings or dismiss further messages" />
-      <item value="extra data" />
-      <item value="delivery" />
-      <item value="Statement" />
-      <item value="creat" />
-      <item value="create" />
-      <item value="Perform a model insert operation." />
-      <item value="material" />
-      <item value="material font" />
-      <item value="accent" />
-      <item value="Exposes a connection to MITM attacks. Use 2 (default) to stay safe." />
-      <item value="expression expected" />
-      <item value="expression expexted" />
-      <item value="expression except" />
-      <item value="expression" />
-      <item value="JSON Web Token Parser and Analyzer. Visualize JWT contents in a tabular form Verify signature (HS256 and RS256 support) Verify validity of timestamp-based claims Visualize timestamp-based claims in unix / ISO / human relative format Edit claim values: dedicated editor for string, timestamp, boolean, numeric and raw JSON values Set default keypair for RS256 validation in Preferences." />
-      <item value="This plugin provides &quot;Method References&quot; and &quot;Type Provider&quot; extracted from the Symfony Plugin. You can configure the plugin with simple per project files .ide-toolbox.metadata.json to support for eg $f-&gt;('date_time')-&gt;format, new Datetime('caret'). Also it improves some PhpStorm Core functionality." />
-      <item value="Use 'cd ... || exit' or 'cd ... || return' in case cd fails." />
-      <item value="Double quote array expansions to avoid re-splitting elements." />
-      <item value="Remove backticks to avoid executing output." />
-      <item value="Double quote to prevent globbing and word splitting." />
-      <item value="Consider using pgrep instead of grepping ps output." />
-      <item value="No data sources are configured to run this SQL and provide advanced code assistance. Disable this inspection via problem menu (Alt+Enter)." />
-      <item value="Double quote array expansions to avoid re-splitting elements. See SC2068." />
-      <item value="A custom Gruvbox theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell... To install: Go to Settings (Preferences) | Plugins, find the theme plugin and install it. Restart IDE. Go to Settings (Preferences) | Appearance &amp; Behavior | Appearance and see the Theme dropdown." />
-      <item value="A plugin for JetBrains WebStorm to handle logs" />
-      <item value="Provides a shortcut to open a file or commit in GitHub, Bitbucket, GitLab, Gitea, Gogs or GitBlit using the default browser. A Shortcut is also available to copy links to your clipboard. After installing select your remote host in Settings → Other Settings → GitLink. Make sure you have registered your project's root under the version control settings. Preferences → Version Control (see unregistered roots) To open a file in the default browser select View → Open in (your selected host). Shortcuts are also available on the annotation gutter and VCS log window." />
-      <item value="Logtalk support for IntelliJ. This plugin provides syntax highlighting for Logtalk and some basic editing features: Parentheses matching. Multiline terms and comments folding and unfolding. Automatic line and block commenting/uncommenting of selection using IntelliJ standard shortcuts. Tooltips for operators and keywords." />
-      <item value="A plugin that add support for Elastic Logstash config files Features Syntax highlighting Keyword completion Brace matching Auto formatting" />
-      <item value="help developer to print debug message through Log.e" />
-      <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
-      <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available: Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply' Switch between Preview and Plain mode: Right click on the editor Press 'Switch to Plain/Preview Mode' Alternatively use the shortcut 'ctrl meta A' while on the editor Only the below graphic rendition codes are supported: Reset code (0) Bold code (1) Italic code (3) Single Underline code (4) All text foreground color codes (30-37) All text background color codes (40-47) Customize ANSI colors: Go to Preferences | Editor | Colors &amp; Fonts | Console Colors Expand 'ANSI Colors' Customize the following foreground/background colors: Black Red Green Yellow Blue Magenta Cyan White Other colors are only supported by the console (not by the editor). Press 'Apply'" />
-      <item value="Insert the given attributes and set the ID on the model." />
-      <item value="$dh Item Listing" />
-      <item value="Please ensure this is not a forgotten debug statement. Inspection info: Documentation can be found here" />
-      <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
-      <item value="Please ensure this is not a forgotten debug statement." />
-      <item value="下载店铺产品长描内容" />
-      <item value="An Brainstorm Plugin to create single file vue.js components with a Sass file along them and complete vuex modules. This plugins does a couple of things in order to simplify your dev experien" />
-      <item value="Getting started Open your Vue.js project. Make sure you have Vue.js listed in your project dependencies in package.json and it is installed. Now, you will get Vue-specific code completion, navigation, and many other features in .vue files. Features Completion for components, directives, props and methods in templates Navigation from the component, directives and event handlers to their definition Coding assistance for different languages inside template, script and style tags in .vue files Extract component and rename component refactorings Collection of code snippets for Vue.js Create new projects from the IDE Welcome screen using Vue CLI Learn more about Vue.js support in the IDE documentation. Limitations Vue components defined using separate .html, .js, and .css files are not supported: WEB-32274." />
-      <item value="PhpStorm Workshop Project is a set of practical exercises that help you learn about different features and productivity tools available in PhpStorm. The project consists of many small lessons divided into areas such as Completion, Navigation, Debugging, Testing, REST client, and others. Every file in the project is a new exercise with code, explanations, and tips on how to get things done." />
-      <item value="Git, SVN, Mercurial, and other VCS plugins provide the Annotate action that displays the last revision and user id for every line of the currently edited file, so you can easily see where this or that code came from. Sometimes this action takes a significant amount of time to run because the IDE has to load and process a lot of data from VCS. This plugin speeds this process up by preloading and caching the data required to run the Annotate action when you open a file. So if you're using the Annotate action often, the plugin is surely worth checking out." />
-      <item value="VCS watch is a plugin that periodically checks for any changes in the current project's repositories. Features Support GIT repositories Support SVN repositories Support Mercurial repositories Feature requests Exclude project repositories from watching Specify watch interval" />
-      <item value="Run command... functionality became a part of Run Anything. Now you can invoke it with: Double Ctrl Type framework's alias in Run Anything's window for completion" />
-      <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDE" />
-      <item value="It's a plugin to encode/decode [hex]string, based on Base64 algorithm." />
-      <item value="New features release. Supporters via Patreon are wanted. - Magic methods validity: new patterns - ::class can be used: new patterns - 'is_countable(...)' can be used: implemented - 'is_iterable(...)' can be used: implemented - Class property initialization flaws: resolved a false-positive (typed properties) - Long inheritance chain: new settings - Type casting can be used: new settings" />
-      <item value="Big news folks, new crowd-funding campaign starts 15 January 2020. It'll fund JS Inspections (EA Extended) creation, and we need your support: when campaign starts, please share it in social networks. Preview is available here!" />
-      <item value="This message will only appear once for each new version. The GitHub Sponsors link can later be found in the plugin description under Settings | Plugins | Key Promoter X." />
-      <item value="Since its first release, the Key Promoter X has now more than 650.000 downloads. It is top-rated on the JetBrains site, and since it is entirely open-source, other plugin developers can browse through the code to understand how things are implemented. The plugin is not for me or a by-product of something I would do anyway. It is for you who want to learn shortcuts in IntelliJ IDEA, and I give away some of my free time to keep it up to date and fix bugs. If you appreciate my efforts, then please consider sponsoring me on GitHub. And don't forget to star the GitHub repository and leave a rating on the JetBrains plugin site. Finally, don't be too shy to connect on LinkedIn. I'd like to know in which parts of the world the Key Promoter X is used." />
+      <item value="element index within parent" />
+      <item value="Elem" />
+      <item value="Pixel" />
+      <item value="charged" />
+      <item value="cate Attr Input Placeholder" />
+      <item value="number String Interchange" />
+      <item value="Visible" />
+      <item value="dialog Visible" />
+      <item value="handle Avatar Success" />
+      <item value="Avatar" />
+      <item value="handle Image Preview" />
+      <item value="handle" />
+      <item value="handle Preview" />
+      <item value="Preview" />
+      <item value="dialog Image Url" />
+      <item value="自定义属性名称" />
+      <item value="calculat" />
+      <item value="calculator" />
+      <item value="unique" />
+      <item value="sort" />
+      <item value="calculate" />
+      <item value="calc" />
+      <item value="previous" />
+      <item value="pre" />
+      <item value="prev" />
+      <item value="cartesian" />
+      <item value="ret" />
+      <item value="drag" />
+      <item value="bulk discount" />
+      <item value="bulk" />
+      <item value="Reordering keys in natural ascending order would enable array optimizations here." />
+      <item value="confirm" />
+      <item value="handle Category Cancel" />
+      <item value="group collection" />
+      <item value="集" />
+      <item value="sum" />
+      <item value="date range" />
+      <item value="finance gross profit order" />
+      <item value="statistics" />
+      <item value="stastics" />
+      <item value="count" />
+      <item value="hint" />
+      <item value="prompt" />
+      <item value="各级全称" />
+      <item value="fullscreen" />
+      <item value="ref" />
+      <item value="get Child Category" />
+      <item value="cascader" />
+      <item value="jodit Initialize" />
+      <item value="capitalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="LATVIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633918665053" />
+    <option name="lastTrimTime" value="1646619709071" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
