@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="init" />
+      <item value="初始化" />
+      <item value="Init" />
       <item value="element index within parent" />
       <item value="Elem" />
       <item value="Pixel" />
@@ -51,14 +54,11 @@
       <item value="fullscreen" />
       <item value="ref" />
       <item value="get Child Category" />
-      <item value="cascader" />
-      <item value="jodit Initialize" />
-      <item value="capitalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646619709071" />
+    <option name="lastTrimTime" value="1647827578410" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
