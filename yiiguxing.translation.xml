@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="sort Able" />
       <item value="pointer" />
       <item value="init" />
       <item value="初始化" />
@@ -53,7 +54,6 @@
       <item value="prompt" />
       <item value="各级全称" />
       <item value="fullscreen" />
-      <item value="ref" />
     </histories>
     <option name="languageScores">
       <map>
