@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Indeterminate" />
+      <item value="is Indeterminate" />
       <item value="adjust Price" />
       <item value="filterable" />
       <item value="exists" />
@@ -52,13 +54,11 @@
       <item value="Reordering keys in natural ascending order would enable array optimizations here." />
       <item value="confirm" />
       <item value="handle Category Cancel" />
-      <item value="group collection" />
-      <item value="集" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
