@@ -4,10 +4,11 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="adjust price or ratio" />
+      <item value="ratio" />
       <item value="handle Close Adjust Price" />
       <item value="Cancel" />
       <item value="scale" />
-      <item value="ratio" />
       <item value="调价金额或比例" />
       <item value="formula" />
       <item value="logistics channel" />
@@ -53,12 +54,11 @@
       <item value="previous" />
       <item value="pre" />
       <item value="prev" />
-      <item value="cartesian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
