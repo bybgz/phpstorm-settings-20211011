@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="multiple" />
+      <item value="validate" />
       <item value="上传单图片" />
       <item value="adjust price or ratio" />
       <item value="ratio" />
@@ -52,13 +54,11 @@
       <item value="sort" />
       <item value="calculate" />
       <item value="calc" />
-      <item value="previous" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
