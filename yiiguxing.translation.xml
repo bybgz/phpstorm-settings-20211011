@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="'always_populate_raw_post_data' is a deprecated since PHP 5.6.0." />
       <item value="on Search" />
       <item value="multiple" />
       <item value="validate" />
@@ -53,11 +54,10 @@
       <item value="calculator" />
       <item value="unique" />
       <item value="sort" />
-      <item value="calculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
+        <entry key="CHINESE" value="353" />
         <entry key="ENGLISH" value="353" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
