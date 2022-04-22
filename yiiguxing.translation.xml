@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="on Search" />
       <item value="multiple" />
       <item value="validate" />
       <item value="上传单图片" />
@@ -53,12 +54,11 @@
       <item value="unique" />
       <item value="sort" />
       <item value="calculate" />
-      <item value="calc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649842920308" />
+    <option name="lastTrimTime" value="1650594725762" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
