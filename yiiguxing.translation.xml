@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="visible" />
       <item value="'always_populate_raw_post_data' is a deprecated since PHP 5.6.0." />
       <item value="on Search" />
       <item value="multiple" />
@@ -53,12 +54,11 @@
       <item value="calculat" />
       <item value="calculator" />
       <item value="unique" />
-      <item value="sort" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
