@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Goods" />
       <item value="res is immediately overridden, perhaps it was intended to use 'else' here." />
       <item value="visible" />
       <item value="'always_populate_raw_post_data' is a deprecated since PHP 5.6.0." />
@@ -53,12 +54,11 @@
       <item value="dialog Image Url" />
       <item value="自定义属性名称" />
       <item value="calculat" />
-      <item value="calculator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
