@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="true" />
+      <item value="update" />
       <item value="Goods" />
       <item value="res is immediately overridden, perhaps it was intended to use 'else' here." />
       <item value="visible" />
@@ -52,13 +54,11 @@
       <item value="handle Preview" />
       <item value="Preview" />
       <item value="dialog Image Url" />
-      <item value="自定义属性名称" />
-      <item value="calculat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
