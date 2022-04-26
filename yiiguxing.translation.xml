@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="orderby" />
+      <item value="order" />
       <item value="total" />
       <item value="count" />
       <item value="excute" />
@@ -52,13 +54,11 @@
       <item value="dialog Visible" />
       <item value="handle Avatar Success" />
       <item value="Avatar" />
-      <item value="handle Image Preview" />
-      <item value="handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="360" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -70,6 +70,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="3" />
