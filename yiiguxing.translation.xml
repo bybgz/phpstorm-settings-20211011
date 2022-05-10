@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="gross Profit" />
       <item value="create time range" />
       <item value="View" />
       <item value="This condition execution costs less than the previous one" />
@@ -53,12 +54,11 @@
       <item value="pointer" />
       <item value="init" />
       <item value="初始化" />
-      <item value="Init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
