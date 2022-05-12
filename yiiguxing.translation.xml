@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="cancel" />
+      <item value="total" />
       <item value="filed" />
       <item value="field" />
       <item value="ebay iostoredetail batch" />
@@ -20,7 +22,6 @@
       <item value="confirm" />
       <item value="orderby" />
       <item value="order" />
-      <item value="total" />
       <item value="count" />
       <item value="excute" />
       <item value="true" />
@@ -53,12 +54,11 @@
       <item value="none" />
       <item value="duration" />
       <item value="scene" />
-      <item value="sort Able" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
