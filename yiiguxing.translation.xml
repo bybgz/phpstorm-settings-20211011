@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="failed" />
       <item value="stastics" />
       <item value="cancel" />
       <item value="total" />
@@ -53,12 +54,11 @@
       <item value="dignity" />
       <item value="definition name list" />
       <item value="none" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
