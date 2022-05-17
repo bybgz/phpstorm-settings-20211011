@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="exact category" />
       <item value="Material Type" />
       <item value="Item Type" />
       <item value="Amazon Envelope" />
@@ -53,12 +54,11 @@
       <item value="adjust Price" />
       <item value="filterable" />
       <item value="exists" />
-      <item value="image Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
