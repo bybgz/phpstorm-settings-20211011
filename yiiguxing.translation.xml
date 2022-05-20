@@ -4,6 +4,30 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="mfg warranty description labor" />
+      <item value="recommended browse nodes" />
+      <item value="maximum retail price" />
+      <item value="Item Length Description" />
+      <item value="fabric type" />
+      <item value="Material Type" />
+      <item value="Material" />
+      <item value="fit type" />
+      <item value="bottom style" />
+      <item value="Outer Material" />
+      <item value="material composition" />
+      <item value="age range description" />
+      <item value="unisex" />
+      <item value="female" />
+      <item value="male" />
+      <item value="department" />
+      <item value="Department" />
+      <item value="target gender" />
+      <item value="clothing type" />
+      <item value="item type" />
+      <item value="style name" />
+      <item value="model name" />
+      <item value="lifecycle supply type" />
+      <item value="care instructions" />
       <item value="periphery" />
       <item value="accumulative" />
       <item value="little kid" />
@@ -11,7 +35,6 @@
       <item value="Amazon" />
       <item value="lifecycle" />
       <item value="exact category" />
-      <item value="Material Type" />
       <item value="Item Type" />
       <item value="Amazon Envelope" />
       <item value="cascader" />
@@ -31,34 +54,11 @@
       <item value="Maternity" />
       <item value="aliexpress logistics abnormalorder query" />
       <item value="This variable must be unset just after foreach to prevent possible side-effects." />
-      <item value="generate" />
-      <item value="confirm" />
-      <item value="orderby" />
-      <item value="order" />
-      <item value="count" />
-      <item value="excute" />
-      <item value="true" />
-      <item value="update" />
-      <item value="Goods" />
-      <item value="res is immediately overridden, perhaps it was intended to use 'else' here." />
-      <item value="visible" />
-      <item value="'always_populate_raw_post_data' is a deprecated since PHP 5.6.0." />
-      <item value="on Search" />
-      <item value="multiple" />
-      <item value="validate" />
-      <item value="上传单图片" />
-      <item value="adjust price or ratio" />
-      <item value="ratio" />
-      <item value="handle Close Adjust Price" />
-      <item value="Cancel" />
-      <item value="scale" />
-      <item value="调价金额或比例" />
-      <item value="formula" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
