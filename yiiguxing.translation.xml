@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Maps" />
+      <item value="Laptops" />
       <item value="mfg warranty description labor" />
       <item value="recommended browse nodes" />
       <item value="maximum retail price" />
@@ -52,13 +54,11 @@
       <item value="bond" />
       <item value="dto" />
       <item value="Maternity" />
-      <item value="aliexpress logistics abnormalorder query" />
-      <item value="This variable must be unset just after foreach to prevent possible side-effects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
