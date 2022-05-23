@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="judge" />
       <item value="woven" />
       <item value="字段" />
       <item value="Filed" />
@@ -53,12 +54,11 @@
       <item value="ebay iostoredetail batch" />
       <item value="gross Profit" />
       <item value="create time range" />
-      <item value="View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652775522671" />
+    <option name="lastTrimTime" value="1653274991175" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
