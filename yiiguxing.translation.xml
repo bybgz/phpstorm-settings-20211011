@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Please ensure this is not a forgotten debug statement." />
       <item value="definition" />
       <item value="husk" />
       <item value="dobby" />
@@ -53,11 +54,10 @@
       <item value="lifecycle" />
       <item value="exact category" />
       <item value="Item Type" />
-      <item value="Amazon Envelope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
+        <entry key="CHINESE" value="426" />
         <entry key="ENGLISH" value="425" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653903879435" />
+    <option name="lastTrimTime" value="1654504101967" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
