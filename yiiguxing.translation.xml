@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="库存" />
       <item value="prefixes" />
       <item value="sku Prefix" />
       <item value="sku variation" />
@@ -53,11 +54,10 @@
       <item value="model name" />
       <item value="lifecycle supply type" />
       <item value="care instructions" />
-      <item value="periphery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
+        <entry key="CHINESE" value="430" />
         <entry key="ENGLISH" value="430" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
