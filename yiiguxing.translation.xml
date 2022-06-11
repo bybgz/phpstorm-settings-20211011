@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="sku Prefix" />
+      <item value="sku variation" />
+      <item value="variations" />
+      <item value="product sku variations" />
       <item value="proportions" />
       <item value="market images" />
       <item value="Please ensure this is not a forgotten debug statement." />
@@ -50,15 +54,11 @@
       <item value="care instructions" />
       <item value="periphery" />
       <item value="accumulative" />
-      <item value="little kid" />
-      <item value="big kid" />
-      <item value="Amazon" />
-      <item value="lifecycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="DUTCH" value="1" />
