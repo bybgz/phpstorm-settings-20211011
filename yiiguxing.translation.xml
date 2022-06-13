@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="get Assign Main Sku List" />
       <item value="库存" />
       <item value="prefixes" />
       <item value="sku Prefix" />
@@ -53,12 +54,11 @@
       <item value="style name" />
       <item value="model name" />
       <item value="lifecycle supply type" />
-      <item value="care instructions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654504101967" />
+    <option name="lastTrimTime" value="1655091574693" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
