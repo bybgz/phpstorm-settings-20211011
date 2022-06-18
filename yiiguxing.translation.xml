@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
       <item value="import" />
       <item value="free shipping" />
       <item value="plane" />
@@ -26,7 +27,6 @@
       <item value="cheap" />
       <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
       <item value="is used in a loop and is a resources greedy construction" />
-      <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
       <item value="money" />
       <item value="Origin" />
       <item value="judge" />
@@ -57,7 +57,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
+        <entry key="CHINESE" value="436" />
         <entry key="ENGLISH" value="436" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
