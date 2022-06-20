@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="put" />
       <item value="Product Detail" />
       <item value="'array_merge(...)' is used in a loop and is a resources greedy construction." />
       <item value="import" />
@@ -53,12 +54,11 @@
       <item value="female" />
       <item value="male" />
       <item value="department" />
-      <item value="Department" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="DUTCH" value="1" />
