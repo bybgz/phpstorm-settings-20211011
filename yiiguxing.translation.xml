@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="运费" />
+      <item value="Shipping Fee" />
       <item value="counties" />
       <item value="countries" />
       <item value="technical" />
@@ -52,12 +54,10 @@
       <item value="Laptops" />
       <item value="mfg warranty description labor" />
       <item value="recommended browse nodes" />
-      <item value="maximum retail price" />
-      <item value="Item Length Description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
+        <entry key="CHINESE" value="450" />
         <entry key="ENGLISH" value="450" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
