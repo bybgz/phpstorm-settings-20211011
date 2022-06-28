@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="technical" />
+      <item value="support" />
+      <item value="peace" />
+      <item value="peacebird" />
       <item value="Portugal" />
       <item value="United Kingdom" />
       <item value="United States" />
@@ -50,15 +54,11 @@
       <item value="Item Length Description" />
       <item value="fabric type" />
       <item value="Material Type" />
-      <item value="Material" />
-      <item value="bottom style" />
-      <item value="Outer Material" />
-      <item value="material composition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="DUTCH" value="1" />
