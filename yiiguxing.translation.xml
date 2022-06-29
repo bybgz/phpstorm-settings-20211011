@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="seller" />
+      <item value="saler" />
       <item value="cost price" />
       <item value="formula" />
       <item value="运费" />
@@ -52,15 +54,14 @@
       <item value="Filed" />
       <item value="Field" />
       <item value="fit type" />
-      <item value="Maps" />
-      <item value="Laptops" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="453" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="KURDISH" value="1" />
@@ -80,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656054105177" />
+    <option name="lastTrimTime" value="1656488864541" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
