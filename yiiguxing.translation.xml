@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="params" />
       <item value="seller" />
       <item value="saler" />
       <item value="cost price" />
@@ -53,12 +54,11 @@
       <item value="字段" />
       <item value="Filed" />
       <item value="Field" />
-      <item value="fit type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
