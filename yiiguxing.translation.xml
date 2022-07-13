@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Within Authority" />
+      <item value="authorized" />
       <item value="resolve" />
       <item value="Sale" />
       <item value="adjust" />
@@ -52,13 +54,11 @@
       <item value="cheap" />
       <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
       <item value="is used in a loop and is a resources greedy construction" />
-      <item value="money" />
-      <item value="Origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657178240240" />
+    <option name="lastTrimTime" value="1657694736764" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
