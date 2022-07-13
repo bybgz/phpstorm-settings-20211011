@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="resolve" />
       <item value="Sale" />
       <item value="adjust" />
       <item value="ratio" />
@@ -53,7 +54,6 @@
       <item value="is used in a loop and is a resources greedy construction" />
       <item value="money" />
       <item value="Origin" />
-      <item value="judge" />
     </histories>
     <option name="languageScores">
       <map>
