@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="drag" />
+      <item value="Export" />
       <item value="dialog" />
       <item value="Within Authority" />
       <item value="authorized" />
@@ -52,13 +54,11 @@
       <item value="husk" />
       <item value="dobby" />
       <item value="Vest" />
-      <item value="cheap" />
-      <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
