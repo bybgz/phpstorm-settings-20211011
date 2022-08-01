@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Nested ternary operator should not be used (maintainability issues)" />
       <item value="dirty" />
       <item value="drag" />
       <item value="Export" />
@@ -53,11 +54,10 @@
       <item value="Please ensure this is not a forgotten debug statement." />
       <item value="definition" />
       <item value="husk" />
-      <item value="dobby" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
+        <entry key="CHINESE" value="465" />
         <entry key="ENGLISH" value="465" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
