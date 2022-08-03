@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="original" />
       <item value="Nested ternary operator should not be used (maintainability issues)" />
       <item value="dirty" />
       <item value="drag" />
@@ -53,12 +54,11 @@
       <item value="market images" />
       <item value="Please ensure this is not a forgotten debug statement." />
       <item value="definition" />
-      <item value="husk" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657694736764" />
+    <option name="lastTrimTime" value="1659505518432" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
