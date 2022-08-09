@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="合并刊登" />
       <item value="batch" />
       <item value="original" />
       <item value="Nested ternary operator should not be used (maintainability issues)" />
@@ -53,7 +54,6 @@
       <item value="product sku variations" />
       <item value="proportions" />
       <item value="market images" />
-      <item value="Please ensure this is not a forgotten debug statement." />
     </histories>
     <option name="languageScores">
       <map>
