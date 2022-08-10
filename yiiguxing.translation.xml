@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="forbidden" />
       <item value="Child instructions can be extracted here (clearer intention, lower complexity numbers)" />
       <item value="merge" />
       <item value="combined" />
@@ -53,7 +54,6 @@
       <item value="prefixes" />
       <item value="sku Prefix" />
       <item value="sku variation" />
-      <item value="variations" />
     </histories>
     <option name="languageScores">
       <map>
