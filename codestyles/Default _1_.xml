@@ -32,6 +32,10 @@
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="BUILT_IN_CASE" value="2" />
+  </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
