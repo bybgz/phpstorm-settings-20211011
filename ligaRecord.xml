@@ -4,10 +4,16 @@
     <option name="recordList">
       <list>
         <CodingTimeRecord>
-          <option name="begin" value="1663062496123" />
-          <option name="end" value="1663062500097" />
+          <option name="begin" value="1663063443683" />
+          <option name="end" value="1663063486643" />
           <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
-          <option name="recordTime" value="3974" />
+          <option name="recordTime" value="42960" />
+        </CodingTimeRecord>
+        <CodingTimeRecord>
+          <option name="begin" value="1663063488106" />
+          <option name="end" value="1663063495322" />
+          <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
+          <option name="recordTime" value="7216" />
         </CodingTimeRecord>
       </list>
     </option>
