@@ -4,10 +4,16 @@
     <option name="recordList">
       <list>
         <CodingTimeRecord>
-          <option name="begin" value="1663043640198" />
-          <option name="end" value="1663043658366" />
+          <option name="begin" value="1663050782212" />
+          <option name="end" value="1663050792810" />
           <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
-          <option name="recordTime" value="18168" />
+          <option name="recordTime" value="10598" />
+        </CodingTimeRecord>
+        <CodingTimeRecord>
+          <option name="begin" value="1663050793909" />
+          <option name="end" value="1663050794841" />
+          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
+          <option name="recordTime" value="932" />
         </CodingTimeRecord>
       </list>
     </option>
