@@ -1,0 +1,13 @@
+<application>
+  <component name="RoomsData">
+    <option name="settings">
+      <map>
+        <entry key="flvOptions" value="" />
+        <entry key="fmp4Options" value="" />
+        <entry key="format" value="flv" />
+        <entry key="tsOptions" value="" />
+        <entry key="vlcDirectory" value="" />
+      </map>
+    </option>
+  </component>
+</application>
