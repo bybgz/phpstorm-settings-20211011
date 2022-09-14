@@ -1,19 +1,25 @@
 <application>
   <component name="GTMRecordManager">
-    <option name="lastFilePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
+    <option name="lastFilePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
     <option name="recordList">
       <list>
         <CodingTimeRecord>
-          <option name="begin" value="1663136789824" />
-          <option name="end" value="1663136790727" />
-          <option name="filePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
-          <option name="recordTime" value="903" />
+          <option name="begin" value="1663136860566" />
+          <option name="end" value="1663136861467" />
+          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
+          <option name="recordTime" value="901" />
         </CodingTimeRecord>
         <CodingTimeRecord>
-          <option name="begin" value="1663136803076" />
-          <option name="end" value="1663136814865" />
-          <option name="filePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
-          <option name="recordTime" value="11789" />
+          <option name="begin" value="1663136861467" />
+          <option name="end" value="1663136868615" />
+          <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
+          <option name="recordTime" value="7148" />
+        </CodingTimeRecord>
+        <CodingTimeRecord>
+          <option name="begin" value="1663136868615" />
+          <option name="end" value="1663136873987" />
+          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
+          <option name="recordTime" value="5372" />
         </CodingTimeRecord>
       </list>
     </option>
