@@ -1,25 +1,11 @@
 <application>
   <component name="GTMRecordManager">
-    <option name="lastFilePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
+    <option name="lastFilePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
     <option name="recordList">
       <list>
         <CodingTimeRecord>
-          <option name="begin" value="1663136860566" />
-          <option name="end" value="1663136861467" />
-          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
-          <option name="recordTime" value="901" />
-        </CodingTimeRecord>
-        <CodingTimeRecord>
-          <option name="begin" value="1663136861467" />
-          <option name="end" value="1663136868615" />
+          <option name="begin" value="1663137480070" />
           <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
-          <option name="recordTime" value="7148" />
-        </CodingTimeRecord>
-        <CodingTimeRecord>
-          <option name="begin" value="1663136868615" />
-          <option name="end" value="1663136873987" />
-          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
-          <option name="recordTime" value="5372" />
         </CodingTimeRecord>
       </list>
     </option>
