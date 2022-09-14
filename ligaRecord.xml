@@ -1,31 +1,19 @@
 <application>
   <component name="GTMRecordManager">
-    <option name="lastFilePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
+    <option name="lastFilePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
     <option name="recordList">
       <list>
         <CodingTimeRecord>
-          <option name="begin" value="1663135724282" />
-          <option name="end" value="1663135730897" />
-          <option name="filePath" value="E:/code/new_alitools/application/controllers/smt_command.php" />
-          <option name="recordTime" value="6615" />
+          <option name="begin" value="1663136789824" />
+          <option name="end" value="1663136790727" />
+          <option name="filePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
+          <option name="recordTime" value="903" />
         </CodingTimeRecord>
         <CodingTimeRecord>
-          <option name="begin" value="1663135731177" />
-          <option name="end" value="1663135734089" />
-          <option name="filePath" value="E:/code/erp/erp_pub/app/command/aliexpress/AeExecuteAssignTask.php" />
-          <option name="recordTime" value="2912" />
-        </CodingTimeRecord>
-        <CodingTimeRecord>
-          <option name="begin" value="1663135734089" />
-          <option name="end" value="1663135751165" />
-          <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
-          <option name="recordTime" value="17076" />
-        </CodingTimeRecord>
-        <CodingTimeRecord>
-          <option name="begin" value="1663135752195" />
-          <option name="end" value="1663135767863" />
-          <option name="filePath" value="E:/code/erp/erp_pub/app/common/model/CommonModel.php" />
-          <option name="recordTime" value="15668" />
+          <option name="begin" value="1663136803076" />
+          <option name="end" value="1663136814865" />
+          <option name="filePath" value="E:/code/new_alitools/application/views/smt_edit_goods_brand_task.php" />
+          <option name="recordTime" value="11789" />
         </CodingTimeRecord>
       </list>
     </option>
