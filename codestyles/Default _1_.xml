@@ -32,10 +32,6 @@
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="6">
-    <option name="KEYWORD_CASE" value="2" />
-    <option name="BUILT_IN_CASE" value="2" />
-  </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -83,6 +79,7 @@
     <option name="CLASS_BRACE_STYLE" value="5" />
     <option name="METHOD_BRACE_STYLE" value="5" />
     <option name="LAMBDA_BRACE_STYLE" value="5" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
@@ -90,7 +87,7 @@
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="5" />
-    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="1" />
