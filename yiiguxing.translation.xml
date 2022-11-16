@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="property" />
+      <item value="console" />
       <item value="renderer" />
       <item value="format" />
       <item value="syntax Highlight" />
@@ -52,13 +54,11 @@
       <item value="peace" />
       <item value="peacebird" />
       <item value="Portugal" />
-      <item value="United Kingdom" />
-      <item value="United States" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661130965840" />
+    <option name="lastTrimTime" value="1668564908498" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
