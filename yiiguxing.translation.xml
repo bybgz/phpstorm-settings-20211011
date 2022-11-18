@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="generate" />
       <item value="layer" />
       <item value="dummy" />
       <item value="unexists" />
@@ -19,7 +20,6 @@
       <item value="status" />
       <item value="grid" />
       <item value="forecast" />
-      <item value="generate" />
       <item value="lead" />
       <item value="New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives" />
       <item value="special" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
