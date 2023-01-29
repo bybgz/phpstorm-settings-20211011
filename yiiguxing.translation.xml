@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="letting go" />
       <item value="progress" />
       <item value="schedule" />
       <item value="lower" />
@@ -53,12 +54,11 @@
       <item value="ratio" />
       <item value="gross Sn Weight" />
       <item value="params" />
-      <item value="seller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1673342388650" />
+    <option name="lastTrimTime" value="1674976922396" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
