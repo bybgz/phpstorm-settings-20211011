@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="assign" />
+      <item value="clear" />
       <item value="letting go" />
       <item value="progress" />
       <item value="schedule" />
@@ -52,13 +54,11 @@
       <item value="Sale" />
       <item value="adjust" />
       <item value="ratio" />
-      <item value="gross Sn Weight" />
-      <item value="params" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
