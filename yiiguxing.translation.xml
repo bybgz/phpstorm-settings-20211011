@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="is have sales" />
+      <item value="is sales" />
+      <item value="have sales" />
+      <item value="sales" />
       <item value="assign" />
       <item value="clear" />
       <item value="letting go" />
@@ -50,15 +54,11 @@
       <item value="dialog" />
       <item value="Within Authority" />
       <item value="authorized" />
-      <item value="resolve" />
-      <item value="Sale" />
-      <item value="adjust" />
-      <item value="ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675673906988" />
+    <option name="lastTrimTime" value="1676258796671" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
