@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="apiParams is immediately overridden, please check this code fragment" />
       <item value="is have sales" />
       <item value="is sales" />
       <item value="have sales" />
@@ -53,11 +54,10 @@
       <item value="Export" />
       <item value="dialog" />
       <item value="Within Authority" />
-      <item value="authorized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
+        <entry key="CHINESE" value="506" />
         <entry key="ENGLISH" value="506" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
