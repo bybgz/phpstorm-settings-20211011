@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Situation" />
       <item value="Execute" />
       <item value="success" />
       <item value="failed" />
@@ -53,7 +54,6 @@
       <item value="original" />
       <item value="Nested ternary operator should not be used (maintainability issues)" />
       <item value="dirty" />
-      <item value="drag" />
     </histories>
     <option name="languageScores">
       <map>
