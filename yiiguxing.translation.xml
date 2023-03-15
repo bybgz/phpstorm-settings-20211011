@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="689" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="right" />
       <item value="Situation" />
       <item value="Execute" />
       <item value="success" />
@@ -53,7 +54,6 @@
       <item value="batch" />
       <item value="original" />
       <item value="Nested ternary operator should not be used (maintainability issues)" />
-      <item value="dirty" />
     </histories>
     <option name="languageScores">
       <map>
@@ -89,5 +89,23 @@
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1678844504051" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="all right" />
+      <item value="right" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
 </application>
