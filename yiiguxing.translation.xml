@@ -98,6 +98,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="select" />
       <item value="all right" />
       <item value="right" />
     </histories>
