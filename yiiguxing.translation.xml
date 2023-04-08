@@ -91,13 +91,15 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680076423025" />
+    <option name="lastTrimTime" value="1680944082338" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Leather" />
+      <item value="Polyester" />
       <item value="journey" />
       <item value="what are you doing" />
       <item value="zoom" />
@@ -107,8 +109,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="GERMAN" value="1" />
       </map>
     </option>
   </component>
