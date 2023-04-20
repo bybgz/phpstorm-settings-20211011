@@ -98,6 +98,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="non input required" />
       <item value="必填项" />
       <item value="validator Interregional" />
       <item value="regular" />
@@ -117,7 +118,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
