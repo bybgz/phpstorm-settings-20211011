@@ -91,13 +91,14 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681722714411" />
+    <option name="lastTrimTime" value="1682328514284" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="leader" />
       <item value="non input required" />
       <item value="必填项" />
       <item value="validator Interregional" />
@@ -117,8 +118,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
