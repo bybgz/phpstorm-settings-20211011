@@ -98,6 +98,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="style" />
       <item value="leader" />
       <item value="non input required" />
       <item value="必填项" />
