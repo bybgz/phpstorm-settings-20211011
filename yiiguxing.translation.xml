@@ -91,13 +91,14 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682328514284" />
+    <option name="lastTrimTime" value="1683079857577" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="statuses" />
       <item value="as it only calls parent's one" />
       <item value="style" />
       <item value="leader" />
@@ -121,7 +122,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
