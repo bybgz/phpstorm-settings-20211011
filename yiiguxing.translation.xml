@@ -98,6 +98,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="channel seller id" />
       <item value="statuses" />
       <item value="as it only calls parent's one" />
       <item value="style" />
