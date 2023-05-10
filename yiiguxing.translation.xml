@@ -97,7 +97,11 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
       <item value="supply" />
       <item value="check goods loss" />
       <item value="check goods deficit" />
@@ -125,7 +129,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
+        <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="20" />
         <entry key="GERMAN" value="1" />
       </map>
