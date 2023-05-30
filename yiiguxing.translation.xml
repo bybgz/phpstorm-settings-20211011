@@ -91,7 +91,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683767496792" />
+    <option name="lastTrimTime" value="1685418904298" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -101,6 +101,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="descartes" />
       <item value="field" />
       <item value="fields" />
       <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
