@@ -101,9 +101,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="field" />
       <item value="SPECIFICATIONS" />
       <item value="descartes" />
-      <item value="field" />
       <item value="fields" />
       <item value="Could provoke a PHP Fatal error ([] operator not supported for strings)." />
       <item value="supply" />
@@ -133,8 +133,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
