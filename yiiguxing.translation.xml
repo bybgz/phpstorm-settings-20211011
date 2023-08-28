@@ -101,6 +101,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="FAIL" />
       <item value="zero" />
       <item value="field" />
       <item value="SPECIFICATIONS" />
