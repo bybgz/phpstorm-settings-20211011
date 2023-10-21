@@ -3,7 +3,7 @@
     <property name="created">2019-07-06T12:01:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2023-10-20T14:14:43</property>
+    <property name="modified">2023-10-21T14:45:07</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -615,7 +615,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -650,7 +650,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -717,13 +717,13 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="d7d7d7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -1426,6 +1426,11 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -2574,7 +2579,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2587,7 +2592,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="858585" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
