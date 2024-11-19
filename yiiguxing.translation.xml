@@ -93,6 +93,9 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1687327956391" />
   </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="GOOGLE" />
+  </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="815" />
